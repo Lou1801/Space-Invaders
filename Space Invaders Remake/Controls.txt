@@ -1,0 +1,7 @@
+Louis Powis 
+Space Invaders Remake
+
+Player controls: 
+Left arrow key is used to move the player to the left.
+Right arrow key is used to move the player to the right.
+Spacebar is used to shoot.
